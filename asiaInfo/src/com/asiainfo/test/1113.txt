@@ -1,1 +1,5 @@
 测试commit后，但是没有push,怎么回退到commit之前。
+
+
+
+查看head
