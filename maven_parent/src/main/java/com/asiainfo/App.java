@@ -8,11 +8,14 @@ public class App
 {
     public static void main( String[] args ){
 
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
 
         System.out.println("20181210建立3.0分支");
+
+        System.out.println("fenzhi2:"+111111111);
+        System.out.println("fenzhi2:"+2222);
+        System.out.println("fenzhi2:"+33333);
+
+
+
     }
 }
