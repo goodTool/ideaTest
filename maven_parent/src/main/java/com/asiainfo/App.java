@@ -18,5 +18,7 @@ public class App
 
         System.out.println("branch3.0"+111);
         System.out.println("branch3.0"+222);
+
+        System.out.println("新增加的语言");
     }
 }
